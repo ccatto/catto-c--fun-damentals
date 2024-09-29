@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunClassLibrary", "FunClass
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunClassLibraryTest", "FunClassLibraryTest\FunClassLibraryTest.csproj", "{A532D563-C428-45A7-81B9-9B2D1A761E4D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunConsoleApp", "FunConsoleApp\FunConsoleApp.csproj", "{3B12591A-C22F-4A32-90FA-C2B2417195B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A532D563-C428-45A7-81B9-9B2D1A761E4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A532D563-C428-45A7-81B9-9B2D1A761E4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A532D563-C428-45A7-81B9-9B2D1A761E4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B12591A-C22F-4A32-90FA-C2B2417195B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B12591A-C22F-4A32-90FA-C2B2417195B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B12591A-C22F-4A32-90FA-C2B2417195B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B12591A-C22F-4A32-90FA-C2B2417195B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
